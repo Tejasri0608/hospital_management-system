@@ -1,0 +1,9 @@
+﻿  Source.c
+D:\cps\Project2\Project2\Source.c(26,9): warning C4101: 'm': unreferenced local variable
+D:\cps\Project2\Project2\Source.c(24,19): warning C4101: 'q': unreferenced local variable
+D:\cps\Project2\Project2\Source.c(24,16): warning C4101: 'i': unreferenced local variable
+D:\cps\Project2\Project2\Source.c(26,12): warning C4101: 'n': unreferenced local variable
+D:\cps\Project2\Project2\Source.c(161,15): warning C4101: 'f': unreferenced local variable
+D:\cps\Project2\Project2\Source.c(336,17): warning C4098: 'read': 'void' function returning a value
+D:\cps\Project2\Project2\Source.c(338,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project2.vcxproj -> D:\cps\Project2\x64\Debug\Project2.exe

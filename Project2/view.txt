@@ -1,0 +1,14 @@
+REGISTRATION DETAILS
+1st visit:
+registration = 100/-
+consultation = 500/-
+Re-visit:
+within 3 days = 300/-
+within 5 days = 350/-
+within a week = 400/-
+
+SCANNING FEE DETAILS
+CT scan = 1500/-
+MRI scan = 6000/-
+Ultrasound scan = 1000/- to 2000/-
+X-ray scan = 150/- to 500/-
